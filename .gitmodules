@@ -1,0 +1,6 @@
+[submodule "GlobalDorm"]
+	path = GlobalDorm
+	url = https://github.com/mthMay/GlobalDorm.git
+[submodule "global-dorm-frontend"]
+	path = global-dorm-frontend
+	url = https://github.com/mthMay/global-dorm-frontend.git
